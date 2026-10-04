@@ -1,17 +1,59 @@
-# flutter_application_1
+# Food Ordering App
 
-A new Flutter project.
+A food ordering app UI built with Flutter.
+
+## Overview
+
+This project is a Flutter UI project created to practice building clean and interactive mobile app screens.
+
+The app includes a home screen with food categories and individual screens for viewing different food items.
+
+## Features
+
+* Food category cards
+* Food item detail screens
+* Navigation between screens
+* Clean and simple user interface
+* Built with Flutter
+
+## Tech Stack
+
+* Flutter
+* Dart
+
+## Project Structure
+
+The project follows the standard Flutter project structure, with the main application code located in the `lib` folder.
+
+## Screens
+
+* Home Screen
+* Burger Screen
+* Pizza Screen
+* Food Detail Screens
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/george-206/Food-Ordering-App.git
+```
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Navigate to the project:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+cd Food-Ordering-App
+```
+
+Install the dependencies:
+
+```bash
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
+```
